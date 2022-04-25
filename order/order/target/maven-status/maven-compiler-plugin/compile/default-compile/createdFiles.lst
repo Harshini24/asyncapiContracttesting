@@ -1,0 +1,12 @@
+META-INF\MANIFEST.MF
+com\deloitte\Order.class
+com\deloitte\controller\OrderController.class
+com\deloitte\bo\Product$ProductBuilder.class
+com\deloitte\bo\Address.class
+com\deloitte\bo\Address$AddressBuilder.class
+META-INF\maven\com.deloitte\order\pom.properties
+com\deloitte\bo\Product.class
+META-INF\maven\com.deloitte\order\pom.xml
+com\deloitte\bo\OrderDetails.class
+com\deloitte\repository\ProductRepository.class
+com\deloitte\bo\OrderDetails$OrderDetailsBuilder.class
