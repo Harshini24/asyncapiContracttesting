@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.deloitte.UserprofileTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 18.67 s <<< FAILURE! - in com.deloitte.UserprofileTest
+validate_get_address(com.deloitte.UserprofileTest)  Time elapsed: 3.516 s  <<< ERROR!
+java.lang.IllegalStateException: Parsed JSON [{"name":"Deloitte","city":"Bangalore","pincode":637002}] doesn't match the JSON path [$[?(@.['customerName'] == 'Deloitte')]]
+	at com.deloitte.UserprofileTest.validate_get_address(UserprofileTest.java:37)
+

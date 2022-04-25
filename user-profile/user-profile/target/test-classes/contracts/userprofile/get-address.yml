@@ -1,0 +1,17 @@
+description: Get Address
+name: get_address
+request:
+  url: /internal/address/4561
+  method: GET
+response:
+  status: 200
+  headers:
+    Content-Type: application/json
+  body:
+      customerName: Deloitte
+      city: Bangalore
+      pincode: 637002
+  matchers:
+    headers:
+      - key: Content-Type
+        regex: "application/json.*"

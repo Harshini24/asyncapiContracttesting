@@ -1,0 +1,16 @@
+{
+  "id" : "a260ae2a-774f-4ca0-85d8-bcc1c38ad92b",
+  "request" : {
+    "url" : "/internal/address/4561",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"customerName\":\"Deloitte\",\"city\":\"Bangalore\",\"pincode\":637002}",
+    "headers" : {
+      "Content-Type" : "application/json"
+    },
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "a260ae2a-774f-4ca0-85d8-bcc1c38ad92b"
+}

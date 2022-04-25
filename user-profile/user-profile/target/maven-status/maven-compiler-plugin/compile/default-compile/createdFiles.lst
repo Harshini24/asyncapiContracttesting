@@ -1,0 +1,4 @@
+com\deloitte\controller\AddressController.class
+com\deloitte\bo\Address.class
+com\deloitte\repository\AddressRepository.class
+com\deloitte\UserProfile.class
