@@ -1,0 +1,6 @@
+com\java\configrabbitmq\publisher\OrderPublisher.class
+com\java\configrabbitmq\dto\OrderStatus.class
+com\java\configrabbitmq\dto\Order.class
+com\java\configrabbitmq\config\MessagingQueue.class
+com\java\configrabbitmq\SpringbootRabbitmqExampleApplication.class
+com\java\configrabbitmq\config\AsyncApiConfiguration.class
